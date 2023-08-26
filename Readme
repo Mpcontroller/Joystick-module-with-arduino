@@ -1,0 +1,62 @@
+# Controlling Games with Joystick Module using Arduino Leonardo
+
+
+Enhance your gaming experience by controlling games using a joystick module and Arduino Leonardo! 🎮🕹️
+
+## Project Overview
+
+This repository contains all the necessary code and resources to build a setup that allows you to control games using a joystick module connected to an Arduino Leonardo board. With this project, you can translate physical joystick movements into in-game actions, adding a new layer of interactivity to your favorite games.
+
+## Features
+
+- **Precision Control:** The joystick module provides accurate and smooth control over game actions, giving you a competitive edge.
+- **Versatility:** The setup can be adapted for various types of games, from racing simulators to role-playing games.
+- **Customizability:** You can customize the Arduino code to map joystick movements to specific keyboard keys or mouse actions according to your preferences.
+- **DIY Learning:** This project is an excellent way to learn about Arduino programming, electronics, and hands-on prototyping.
+
+## Components Used
+
+- Arduino Leonardo Board
+- Joystick Module
+- Jumper Wires
+
+
+## Getting Started
+
+Follow these steps to get started with the project:
+
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/yourusername/arduino-joystick-gaming.git`.
+
+2. **Hardware Setup:** Connect the joystick module to the Arduino Leonardo board as described in the [hardware-setup.md](docs/hardware-setup.md) guide.
+
+3. **Upload Code:** Upload the provided Arduino sketch (`joystick_1.ino`) to your Arduino Leonardo using the Arduino IDE. This code reads joystick input and sends corresponding commands to the computer.
+
+4. **Customization:** Modify the Arduino code to suit your gaming needs. Map joystick movements to specific keys or mouse actions based on the games you play.
+
+5. **Enjoy Gaming:** Launch your favorite games and experience a new way of playing by using the joystick module.
+
+## Documentation
+
+For detailed instructions on hardware setup, Arduino code explanation, and customization, refer to the [documentation](docs/README.md) provided in the `docs` directory.
+
+## Future Enhancements
+
+This project opens the door to endless possibilities. Some future enhancements you could consider:
+
+- Integrating the joystick with virtual reality setups for immersive gameplay.
+- Expanding the setup to control drones or robotic systems in simulated environments.
+
+## Contribution
+
+Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Let's redefine how we play games! 🚀🎮
+
+
+
